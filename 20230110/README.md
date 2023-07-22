@@ -4,7 +4,7 @@
 
 | Keterangan      | Data |
 | --------------- | ---- |
-| Nama            | **Jack Liu** |
+| Nama            | **James Liu** |
 | NIM             | *20230110* |
 | Alamat Asal     | Jl. Damai No.17 Kota Silvamilion |
 | Alamat Domisili | Jl. Bahagia No.15, Kota Talonflame |
